@@ -8,5 +8,5 @@ A first-year computer science student passionate about all things tech.
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perhapsimalogicalsimp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhas-gunda-50977b354/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhasgunda)
 ![](https://dcbadge.limes.pink/api/shield/852828176883384331)
